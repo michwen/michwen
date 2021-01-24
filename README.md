@@ -2,7 +2,7 @@
 
 ### Master of All Technologies
 
-<img width="964" alt="Tools" src="https://github.com/michwen/michwen/blob/master/2021.png">
+<img width="964" alt="Tools" src="https://raw.githubusercontent.com/michwen/michwen/main/2021.png">
 
 
 
