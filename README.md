@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Master of All Technologies
+
+<img align="left" alt="numpy" width="30" src="https://github.com/michwen/michwen/blob/master/2021.png" />
+
 <!--
 **michwen/michwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
