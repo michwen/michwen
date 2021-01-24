@@ -1,4 +1,4 @@
-### Hi there 👋
+### Developer Program Member, Open Source Contributor and Technical Blogger 👋
 
 ### Master of All Technologies
 
