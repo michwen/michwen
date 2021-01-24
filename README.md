@@ -2,7 +2,7 @@
 
 ### Master of All Technologies
 
-I offer comprehensive experienced paths with programs designed specifically for professional to help rapidly up-skill in complementary skill-sets, depending on the project and technology role professional is in at any point in time.
+I offer comprehensive experienced paths with programs designed specifically for professionals to help rapidly up-skill in complementary skill-sets, depending on the project and technology roles which professionals are in at any point in time.
 
 I have real-time exposures through industry-based real-life projects, practical learning with hands-on virtual labs and get industry-recognized certificates in Technical & Analytical Courses are aligned from Data, Cloud, process, software, etc.
 
