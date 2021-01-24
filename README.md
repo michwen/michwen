@@ -2,6 +2,10 @@
 
 ### Master of All Technologies
 
+I offer a comprehensive experienced path with programs designed specifically for professional to help rapidly up-skill in complementary skill-sets, depending on the project and technology role professional is in at any point in time.
+
+I have a real-time exposure through industry-based real-life projects, practical learning with hands-on virtual labs and get industry-recognized certificates in Technical & Analytical Courses are aligned from Data, Cloud, process, software, etc.
+
 <img width="964" alt="Tools" src="https://raw.githubusercontent.com/michwen/michwen/main/2021.png">
  
 <!--
