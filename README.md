@@ -1,6 +1,6 @@
 ### Information Technologies
 
-- Master of All Technologies
+### Master of All Technologies
 
 <img width="964" alt="Tools" src="https://raw.githubusercontent.com/michwen/michwen/main/2021.png">
  
